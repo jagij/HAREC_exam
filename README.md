@@ -1,3 +1,13 @@
+## HAREC exam tester
+
+This project was created to be able to test your knowledge of the HAREC exam. The questions were posted on the BIPT website a long time ago, they were sourced from elsewhere.
+
+The data that were used can be found in the resources directory. The README file contains more info on how the data was extracted from the access database files and more. Note that the data itself was published without a license.
+
+The page was set up using the create react app template. The info on how to continue working on that can be found below.
+
+## React info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
